@@ -7,3 +7,4 @@ test_br_1 change 2
 
 br2 change
 
+new line
